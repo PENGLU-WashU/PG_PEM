@@ -16,6 +16,4 @@ Lu P, Benabdallah N, Jiang W, et al. Blind Image Restoration Enhances Digital Au
   year={2022},
   publisher={Soc Nuclear Med}
 }
-
-}
 ```
