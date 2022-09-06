@@ -1,5 +1,5 @@
 # PG_PEM
-The matlab code of PG-PEM. Please go to the folder PG-PEM and run the demo file: DAR_decon_example.m.
+The matlab code of PG-PEM. Please go to the folder PG-PEM and run the demo file: demo_PGPEM.m.
 ## References
 If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://jnm.snmjournals.org/content/63/4/591.abstract):
 
